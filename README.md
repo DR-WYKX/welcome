@@ -6,5 +6,5 @@
   <br>
   <img src="coolart.png" width="100px">
   <br>
-  <a href="https://www.instagram.com/_i_am_moist_/">Instagram</a> - <a href="https://toyhou.se/emiyashirou">Toyhou.se</a> - <a href="https://vgen.co/WYKX">VGen</a>
+  <a href="https://www.instagram.com/_i_am_moist_/">Instagram</a> - <a href="https://toyhou.se/WYKX">Toyhou.se</a> - <a href="https://vgen.co/WYKX">VGen</a>
 </div>
